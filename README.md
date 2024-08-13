@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diveshnetizen
-- 👀 I’m interested in ... benge watching and coding/development
-- 🌱 I’m currently doing Solution Architech course preparing for aws certification
+- 👀 I’m interested in ... binge watching and coding/development
+- 🌱 I’m currently doing Exciting Project in devops.
 - 💞️ I’m looking to collaborate on binge watching 😄😄😄😄😄😄
 - 📫 How to reach me ... call me 
 - ⚡ Fun fact: ... Tea is always  better than coffee
